@@ -6,11 +6,16 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<<<<<<< HEAD
     <h1>Pixel Art Maker</h1>
+=======
+    <h1>Lab: Pixel Art Maker</h1>
+>>>>>>> 0f51382a75ccb590de1dbe0b3790bd1236d2aa02
 
     <h2>Choose Grid Size</h2>
     <form id="sizePicker">
         Grid Height:
+<<<<<<< HEAD
         <input type="number" id="input_height" name="height" min="1" max="200" value="1" placeholder="1-200"> Grid Width:
         <input type="number" id="input_width" name="width" min="1" max="200" value="1" placeholder="1-200">
         <input type="submit" value="Draw grid!">
@@ -24,6 +29,19 @@
     <table id="pixel_canvas" ondragstart="return false;" ondrop="return false;" oncontextmenu="return false;">
 
     </table>
+=======
+        <input type="number" id="input_height" name="height" min="1" value="1">
+        Grid Width:
+        <input type="number" id="input_width" name="width" min="1" value="1">
+        <input type="submit">
+    </form>
+
+    <h2>Pick A Color</h2>
+    <input type="color" id="colorPicker">
+
+    <h2>Design Canvas</h2>
+    <table id="pixel_canvas"></table>
+>>>>>>> 0f51382a75ccb590de1dbe0b3790bd1236d2aa02
 
     <script src="designs.js"></script>
 </body>
