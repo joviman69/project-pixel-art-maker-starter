@@ -1,5 +1,4 @@
 // Select color input
-<<<<<<< HEAD
 var color;
 var colorRight;
 // Select size input
@@ -83,14 +82,3 @@ $('body').mouseup(function() {
         return false;
     });
 });
-=======
-// Select size input
-
-// When size is submitted by the user, call makeGrid()
-
-function makeGrid() {
-
-// Your code goes here!
-
-}
->>>>>>> 0f51382a75ccb590de1dbe0b3790bd1236d2aa02

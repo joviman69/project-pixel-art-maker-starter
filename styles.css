@@ -1,6 +1,5 @@
 body {
     text-align: center;
-<<<<<<< HEAD
     background-color: #34495e;
     padding-bottom: 4em;
 }
@@ -9,23 +8,13 @@ h1 {
     font-family: 'Press Start 2P', cursive;
     font-size: 60px;
     color: #ecf0f1;
-=======
-}
-
-h1 {
-    font-family: Monoton;
-    font-size: 70px;
->>>>>>> 0f51382a75ccb590de1dbe0b3790bd1236d2aa02
     margin: 0.2em;
 }
 
 h2 {
     margin: 1em 0 0.25em;
-<<<<<<< HEAD
     padding-bottom: 0.5em;
     color: #ecf0f1;
-=======
->>>>>>> 0f51382a75ccb590de1dbe0b3790bd1236d2aa02
 }
 
 h2:first-of-type {
@@ -41,10 +30,7 @@ td {
 table {
     border-collapse: collapse;
     margin: 0 auto;
-<<<<<<< HEAD
     background-color: #fff;
-=======
->>>>>>> 0f51382a75ccb590de1dbe0b3790bd1236d2aa02
 }
 
 tr {
@@ -58,7 +44,6 @@ td {
 input[type=number] {
     width: 6em;
 }
-<<<<<<< HEAD
 
 #sizePicker {
     color: #ecf0f1;
@@ -73,5 +58,3 @@ span {
     padding-left: 2em;
     
 }
-=======
->>>>>>> 0f51382a75ccb590de1dbe0b3790bd1236d2aa02
