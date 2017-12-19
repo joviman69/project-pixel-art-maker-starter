@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    background-color: #34495e;
+    padding-bottom: 4em;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 60px;
+    color: #ecf0f1;
+    margin: 0.2em;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    padding-bottom: 0.5em;
+    color: #ecf0f1;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+
+#sizePicker {
+    color: #ecf0f1;
+}
+
+p {
+    color: #ecf0f1;
+}
+
+span {
+    color: #ecf0f1;
+    padding-left: 2em;
+    
+}
