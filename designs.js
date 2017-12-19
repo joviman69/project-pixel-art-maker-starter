@@ -1,7 +1,5 @@
-// Select color input
 var color;
 var colorRight;
-// Select size input
 var height;
 var width;
 
