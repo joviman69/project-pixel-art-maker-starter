@@ -1,16 +1,12 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+  Project form Udacity Google Developer Challenge Scholarship: Front-End Web Dev
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+  Skills: HTML5, CSS3 and JS
 
-## Instructions
+  Set a grid size and pick a color to draw in it.
+  Erase is possible with right click.
 
-To get started, open `designs.js` and start building out the app's functionality.
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
